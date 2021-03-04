@@ -1,0 +1,12 @@
+https://www.teachmemicro.com/raspberry-pi-serial-uart-tutorial/
+
+port='/dev/serial0'
+baudrate = 9600
+
+Mission: send AT to serial get OK
+
+Maybe "ttyAMA0"
+
+/dev/ttyAMA0 
+
+https://www.raspberrypi.org/documentation/configuration/uart.md
