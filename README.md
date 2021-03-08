@@ -1,2 +1,2 @@
-# Plen2
+# Plen
 Plen and all its research
