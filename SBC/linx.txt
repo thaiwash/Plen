@@ -1,0 +1,4 @@
+https://github.com/PocketPilot/PocketPilot
+
+USB & Wifi:
+https://www.element14.com/community/community/designcenter/single-board-computers/next-genbeaglebone/blog/2019/08/16/pocketbeagle-quick-start-guide-and-connecting-to-wifi-and-ethernet
